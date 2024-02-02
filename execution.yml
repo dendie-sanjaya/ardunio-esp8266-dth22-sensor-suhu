@@ -1,0 +1,4 @@
+execution:
+ -concurency: 25
+  ramp-up : 1m
+  
