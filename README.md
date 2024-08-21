@@ -5,6 +5,15 @@
 Creating sensor esp8266_dth22 device and monitoring data sensor via web, this program  write code arduion programming language to send sensor device data
 through Wifi 
 
+## Table of Contents
+- [Introducing](#introducing)
+- [Device Info](#device-info)
+- [Simple Guide](#simple-guide)
+  - [Device Sending Data to Telkom IoT Platform](#1-device-sending-data-to-telkom-iot-platform)
+  - [Visualizing Data in Real-Time via Web](#2-visualizing-data-in-real-time-via-web)
+- [Contact](#contact)
+- [License](#license)
+
 **esp8266**
 
 ESP8266 is a very popular Wi-Fi module, which allows devices to connect to Wi-Fi networks and communicate over the internet. This module is often used in Internet of Things (IoT) projects because of its small size, affordable price, and ability to run its own code through an integrated microcontroller
