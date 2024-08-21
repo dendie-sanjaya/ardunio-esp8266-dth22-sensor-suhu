@@ -5,14 +5,6 @@
 Creating sensor esp8266_dth22 device and monitoring data sensor via web, this program  write code arduion programming language to send sensor device data
 through Wifi 
 
-## Table of Contents
-- [Introducing](#introducing)
-- [Device Info](#device-info)
-- [Simple Guide](#simple-guide)
-  - [Device Sending Data to Telkom IoT Platform](#1-device-sending-data-to-telkom-iot-platform)
-  - [Visualizing Data in Real-Time via Web](#2-visualizing-data-in-real-time-via-web)
-- [Contact](#contact)
-- [License](#license)
 
 **esp8266**
 
@@ -23,6 +15,16 @@ ESP8266 is a very popular Wi-Fi module, which allows devices to connect to Wi-Fi
 Sensor a temperature and humidity sensor known for its higher accuracy compared to the DHT11 (a simpler version).
 
 This sensor can measure temperature in the range of -40 to +80 °C with an accuracy of around ±0.5°C, and humidity in the range of 0-100% RH with an accuracy of around ±2-5%.
+
+
+## Table of Contents
+- [Introducing](#introducing)
+- [Device Info](#device-info)
+- [Simple Guide](#simple-guide)
+  - [Device Sending Data to Telkom IoT Platform](#1-device-sending-data-to-telkom-iot-platform)
+  - [Visualizing Data in Real-Time via Web](#2-visualizing-data-in-real-time-via-web)
+- [Contact](#contact)
+- [License](#license)
 
 
 ## Device Info
