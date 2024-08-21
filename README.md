@@ -1,5 +1,7 @@
 # IoT Arduion esp8266_dth22 and Monitoring Data Sensor via Web  
 
+## Introducing
+
 Creating sensor esp8266_dth22 device and monitoring data sensor via web, this program  write code arduion programming language to send sensor device data
 through Wifi 
 
@@ -14,7 +16,7 @@ Sensor a temperature and humidity sensor known for its higher accuracy compared 
 This sensor can measure temperature in the range of -40 to +80 °C with an accuracy of around ±0.5°C, and humidity in the range of 0-100% RH with an accuracy of around ±2-5%.
 
 
-# Device Info
+## Device Info
 Can be purchased at :
 
 https://www.tokopedia.com/cncstorebandung/cnc-dht22-am2302-temperature-humidity-sensor-suhu-module-for-arduino
@@ -22,7 +24,7 @@ https://www.tokopedia.com/cncstorebandung/cnc-dht22-am2302-temperature-humidity-
 ![device ](./screen_shoot_sample/device.png)
 
 
-# Simple Guide
+## Simple Guide
 
 
 **1. This image to show device send data to Telkom IoT Platform**
